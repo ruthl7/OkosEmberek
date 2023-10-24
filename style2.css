@@ -1,0 +1,38 @@
+body {
+    background-color: darkblue;
+    text-align: justify;
+  }
+  
+  #menu {
+    background-color: rgba(68, 68, 230, 0.574);
+    /* text-align: center; */
+    border-bottom-right-radius: 15pt;
+    border-bottom-left-radius: 15pt;
+    text-align: center;
+    color: white;
+    /* width: 100%; */
+  }
+  
+  .card-body {
+    height: 100%;
+  }
+    
+  .kartya50 {
+    background-color: transparent;
+    border-radius: 20pt;
+    color: white;
+    border: 1px solid white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+  .kepek{
+   height: 100%;
+   width: 100%;
+   border-radius: 20pt;
+   padding: 0px;
+  }
+
+  .a{
+    color: white;
+  }
+  
+  
