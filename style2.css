@@ -18,10 +18,17 @@ body {
   }
     
   .kartya50 {
+    background-color: rgba(5, 5, 107, 0.384);
+    border-radius: 20pt;
+    color: white;
+    /* border: 1px solid white; */
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+  .kartyanev{
     background-color: transparent;
     border-radius: 20pt;
     color: white;
-    border: 1px solid white;
+    text-align: center;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   }
   .kepek{
