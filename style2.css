@@ -41,5 +41,10 @@ body {
   .a{
     color: white;
   }
+
+  .card:hover{
+    background-color: blue;
+    transition: 1s;
+  }
   
   
